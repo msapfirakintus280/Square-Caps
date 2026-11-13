@@ -205,4 +205,4 @@ This repository serves as the official landing page for Square Caps. The softwar
 **Get the most recent version of Square Caps today!**
 
 ---
-**Last updated:** 2026-11-12 22:56:33 UTC
+**Last updated:** 2026-11-13 03:04:06 UTC
